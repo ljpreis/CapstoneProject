@@ -1,6 +1,6 @@
 # CapstoneProject
 For data in my capstone project
-## Capstone prokect proposal
+## Capstone project proposal
 Use python programing to develop a daily fantasy football solver.
 I will need to display data science skills in collection, cleaning, and transforming data in order to create value.
 ### Collection
